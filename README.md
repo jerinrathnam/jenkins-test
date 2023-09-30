@@ -1,0 +1,1 @@
+  Docker image URL: jerinrathnam/jenkins-docker-hub
